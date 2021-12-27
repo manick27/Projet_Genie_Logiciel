@@ -1,0 +1,45 @@
+#info{
+    width: 50%;
+    margin: auto;
+    /* margin-top: -7cm; */
+    text-align: center;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 30px;
+    /* position: relative; */
+}
+
+
+#ferme{
+    /* background: rgb(241, 52, 52); */
+    border: none;
+    padding: 5px;
+    width: 20%;
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+    float: right;
+}
+
+#ferme:hover{
+    border: 1px solid rgb(241, 52, 52);
+    color: rgb(241, 52, 52);
+}
+
+#info img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+#info h2{
+    /* font-family: 'Gabriola'; */
+    /* text-align: left; */
+    font-size: 30px;
+}
+
+#info .gras{
+    font-weight: bold;
+    font-size: large;
+}
